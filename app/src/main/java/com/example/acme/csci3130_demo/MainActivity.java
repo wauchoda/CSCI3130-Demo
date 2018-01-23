@@ -1,5 +1,5 @@
 /*Used https://developer.android.com/training/basics/firstapp/index.html as reference
-when building this app.*/
+when building this app. David Wauchope*/
 package com.example.acme.csci3130_demo;
 
 import android.support.v7.app.AppCompatActivity;
